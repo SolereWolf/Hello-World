@@ -1,2 +1,3 @@
 # Hello-World
-New in here.
+
+Strive to learn new things!
